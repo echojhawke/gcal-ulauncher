@@ -1,7 +1,6 @@
 # Quick Google Calendar Event Creator for Ulauncher
 
-<img width="656" height="238" alt="image" src="https://github.com/user-attachments/assets/35b8d4bd-1c43-4c73-8911-2526ec64bd7e" />
-
+<img width="619" height="225" alt="image" src="https://github.com/user-attachments/assets/3cb8b779-bfd7-4ced-95c4-8fa02f4cae4b" />
 
 Create Google Calendar events fast from [Ulauncher](https://ulauncher.io/) using natural language.
 
@@ -22,7 +21,7 @@ This extension **opens a pre-filled Google Calendar event page** in your browser
   - Times: `at 4`, `at 4:30p`, `at 1630`
   - Ranges: `from 3 to 10`, `at 11 to 1`, `from 4:30p-6p`
   - Duration: `for 90m`, `for 2h`, `for 1h30m`
-<img width="638" height="237" alt="image" src="https://github.com/user-attachments/assets/4c60cbb4-900e-476f-a33e-5ec8c5f42f4b" />
+<img width="608" height="207" alt="image" src="https://github.com/user-attachments/assets/65e0d4a9-e89c-4826-96ac-087d31bd732e" />
 
 - Guests:
   - Raw emails: `with someone@gmail.com`
@@ -32,6 +31,9 @@ This extension **opens a pre-filled Google Calendar event page** in your browser
   - Location: `in Backyard`
   - Notes: `note Bring drinks` (also `desc` / `details`)
 - Live “what got parsed” feedback in the result description.
+
+Will open the google calendar page with info pre-filled:
+<img width="1115" height="858" alt="image" src="https://github.com/user-attachments/assets/1714c296-e7e0-4174-a5d7-0f00a656fbf4" />
 
 ---
 
