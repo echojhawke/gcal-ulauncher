@@ -233,3 +233,10 @@ Badges:
 ## License
 
 https://github.com/echojhawke/gcal-ulauncher/blob/main/LICENSE
+
+## Disclaimer / Trademark Notice
+
+This is an independent, unofficial, community project. It is **not affiliated with, endorsed by, or sponsored by** Google, Google Calendar, or Ulauncher.
+
+Google Calendar and Google are trademarks of Google LLC. Ulauncher is a trademark of its respective owners. All trademarks, service marks, and product names are the property of their respective owners.
+ 
