@@ -1,0 +1,31 @@
+{
+  "required_api_version": "2",
+  "name": "Quick Google Calendar Event",
+  "description": "Create and add events to your Google Calendar from uLauncher using natural language.",
+  "developer_name": "echojhawke",
+  "icon": "images/icon.png",
+  "options": { "query_debounce": 0.05 },
+  "preferences": [
+    { "id": "kw_personal", "type": "keyword", "name": "Personal keyword", "default_value": "event" },
+    { "id": "kw_work", "type": "keyword", "name": "Work keyword", "default_value": "wevent" },
+    { "id": "kw_other", "type": "keyword", "name": "Other keyword", "default_value": "oevent" },
+
+    { "id": "tz", "type": "input", "name": "Time zone (IANA)", "default_value": "America/Denver" },
+    { "id": "default_duration", "type": "input", "name": "Default duration (minutes)", "default_value": "60" },
+
+    { "id": "personal_base_url", "type": "input", "name": "Personal base URL", "default_value": "https://calendar.google.com/calendar/u/0/r/eventedit" },
+    { "id": "work_base_url", "type": "input", "name": "Work base URL", "default_value": "https://calendar.google.com/calendar/u/1/r/eventedit" },
+    { "id": "other_base_url", "type": "input", "name": "Other base URL", "default_value": "https://calendar.google.com/calendar/u/2/r/eventedit" },
+
+    { "id": "personal_src", "type": "input", "name": "Personal src (optional)", "default_value": "" },
+    { "id": "work_src", "type": "input", "name": "Work src (optional)", "default_value": "" },
+    { "id": "other_src", "type": "input", "name": "Other src (optional)", "default_value": "" },
+
+    {
+      "id": "guest_aliases",
+      "type": "input",
+      "name": "Guest aliases (comma separated: Name=email)",
+      "default_value": "John=john@example.com, Sarah=sarah@example.com"
+    }
+  ]
+}
