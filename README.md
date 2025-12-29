@@ -225,8 +225,4 @@ Badges:
 
 ## License
 
-Choose a license (MIT is common) and add a `LICENSE` file.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
+https://github.com/echojhawke/gcal-ulauncher/blob/main/LICENSE
