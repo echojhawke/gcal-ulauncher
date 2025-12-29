@@ -1,6 +1,9 @@
-# Quick Google Calendar Event (Ulauncher)
+# Quick Google Calendar Event Creator for Ulauncher
 
-Create Google Calendar events fast from Ulauncher using natural language.
+<img width="656" height="238" alt="image" src="https://github.com/user-attachments/assets/35b8d4bd-1c43-4c73-8911-2526ec64bd7e" />
+
+
+Create Google Calendar events fast from [Ulauncher](https://ulauncher.io/) using natural language.
 
 This extension **opens a pre-filled Google Calendar event page** in your browser (it does not auto-submit/save the event).
 
@@ -12,11 +15,15 @@ This extension **opens a pre-filled Google Calendar event page** in your browser
   - `event` → Personal
   - `wevent` → Work
   - `oevent` → Other
+<img width="696" height="508" alt="image" src="https://github.com/user-attachments/assets/fb3c70f3-2580-44c2-819d-7889b30052f9" />
+
 - Natural language date/time parsing:
   - Dates: `tomorrow`, `today`, `this friday`, `next friday`, `dec 25`, `12.25`, `25th`
   - Times: `at 4`, `at 4:30p`, `at 1630`
   - Ranges: `from 3 to 10`, `at 11 to 1`, `from 4:30p-6p`
   - Duration: `for 90m`, `for 2h`, `for 1h30m`
+<img width="638" height="237" alt="image" src="https://github.com/user-attachments/assets/4c60cbb4-900e-476f-a33e-5ec8c5f42f4b" />
+
 - Guests:
   - Raw emails: `with someone@gmail.com`
   - Aliases: `with Mom, Dad` (mapped to emails)
